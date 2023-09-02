@@ -24,7 +24,7 @@ This is a API testing demo project where I try to test an API(dmoney) which is a
 ## How to run this project
 - Clone This project
 - Then run the follwing command:
-- ``` $ jmeter -n -t .jmx -l t.csv -e -o Reports ```
+- ``` $ jmeter -n -t d_money_API_testing_JMETER.jmx -l d_money_API_testing_JMETER.csv -e -o Reports ```
 
 ## JMETER ScreenShot:
 ![interface](https://github.com/rabbypathan/Demo-Transaction-API-JMETER/assets/70917088/dfdf5ba5-77b4-44fb-90b6-8c53603a65b3)
