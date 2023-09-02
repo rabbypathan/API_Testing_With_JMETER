@@ -20,3 +20,8 @@ This is a API testing demo project where I try to test an API(dmoney) which is a
 - Payment 200 tk from customer account
 - Delete Agent account
 - Delete Customer account
+
+## How to run this project
+- Clone This project
+- Then run the follwing command
+ $ jmeter -n -t Jmeter Performance test using API Chaining.jmx -l Dmoney-Load-Test.csv -e -o Reports
