@@ -23,5 +23,17 @@ This is a API testing demo project where I try to test an API(dmoney) which is a
 
 ## How to run this project
 - Clone This project
-- Then run the follwing command
+- Then run the follwing command:
 - ``` $ jmeter -n -t Jmeter Performance test using API Chaining.jmx -l Dmoney-Load-Test.csv -e -o Reports ```
+
+## JMETER ScreenShot:
+![interface](https://github.com/rabbypathan/Demo-Transaction-API-JMETER/assets/70917088/dfdf5ba5-77b4-44fb-90b6-8c53603a65b3)
+
+## HTML Report ScreenShot:
+![reports1](https://github.com/rabbypathan/Demo-Transaction-API-JMETER/assets/70917088/d9dd7a2b-bd9d-41f2-8926-7e94b8949ecb)
+![reports](https://github.com/rabbypathan/Demo-Transaction-API-JMETER/assets/70917088/a8777608-b696-4fd5-84fc-6b9a02f3e04e)
+
+
+
+
+
