@@ -24,4 +24,4 @@ This is a API testing demo project where I try to test an API(dmoney) which is a
 ## How to run this project
 - Clone This project
 - Then run the follwing command
-- ``` $ jmeter -n -t Jmeter Performance test using API Chaining.jmx -l Dmoney-Load-Test.csv -e -o Reports ```
+ ``` $ jmeter -n -t Jmeter Performance test using API Chaining.jmx -l Dmoney-Load-Test.csv -e -o Reports ```
